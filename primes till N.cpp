@@ -21,3 +21,27 @@ int main(){
     return 0;
 }
 
+/*
+int main()
+{
+    int num, n;
+    cin>>n;
+    for(num=2;num<=n;num++)
+        {
+            int i;
+            for(i=2;i<num;i++)
+            {
+                if(num%i==0)
+                {
+                    break;
+                }
+            }
+            if(i==num)
+                {
+                    cout<<num<<endl;
+                }
+        }
+
+    return 0;
+}
+*/
