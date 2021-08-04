@@ -12,7 +12,15 @@ int main()
     cout<<a<<endl;
     *p=30;
     cout<<a<<endl;
-    cout<<p;
+    cout<<p+1;
+
+    char c='g';
+    char *q=&c;
+    cout<<q<<endl;
+    cout<<*q<<endl;
+    q++;
+    cout<<q;
 
     return 0;
 }
+
