@@ -10,7 +10,7 @@ int main()
     {
         int last=n%10;
         ans=ans+ x*last;
-        x*=2;
+        x=x*2;
         n/=10;
     }
     cout<<ans;
