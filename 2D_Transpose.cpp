@@ -18,7 +18,7 @@ int main()
     {
         for(int j=0;j<3;j++)
         {
-            cout<<a[i][j]<<" ";
+            cout<<a[i][j]<<" " ;
         }
         cout<<endl;
     }
