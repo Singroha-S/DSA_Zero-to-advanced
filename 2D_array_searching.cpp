@@ -24,6 +24,6 @@ int main()
             }
         }
     }
-    cout<<"b not found";
+    cout<<"b not found" ;
     return 0;
 }
