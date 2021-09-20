@@ -17,7 +17,7 @@ int main()
     }
     else
     {
-        cout<<"not" ;
+        cout<<"not";
     }
 
     return 0;
