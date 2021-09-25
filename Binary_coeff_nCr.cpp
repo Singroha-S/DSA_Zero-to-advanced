@@ -16,5 +16,5 @@ int main()
     int ans= fact(n)/(fact(n-r)*fact(r));
     cout<<ans;
 
-    return 0;
+    return 0 ;
 }
