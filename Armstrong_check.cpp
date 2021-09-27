@@ -20,5 +20,5 @@ int main()
         cout<<"not";
     }
 
-    return 0 ;
+    return 0;
 }
