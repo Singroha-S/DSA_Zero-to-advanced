@@ -26,5 +26,5 @@ int main()
     //cout<<clearbit(5,2);
     cout<<updatebit(5,1,1);
 
-    return 0;
+    return 0 ;
 }
